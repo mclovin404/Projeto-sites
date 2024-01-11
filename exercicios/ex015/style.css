@@ -1,0 +1,15 @@
+@charset "UTF-8"
+body {
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+p {
+    text-align: justify;
+    color: bisque;
+    font-size: 0.5em;
+}
+h1 {
+    background-color: antiquewhite;
+    
+}
